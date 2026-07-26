@@ -1069,6 +1069,3 @@ print(f"  Posição: {bola_de_ouro['sub_position']} | "
       f"Gols: {bola_de_ouro['gols_torneio']} | "
       f"Assistências: {bola_de_ouro['assists_torneio']}")
 
-# ============================================================
-# RESUMO FINAL
-# ============================================================
